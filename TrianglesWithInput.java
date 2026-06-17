@@ -10,7 +10,7 @@ public class TrianglesWithInput {
 
         int height = scanner1.nextInt();
 
-        if (height <= 0) {
+        if (height <= 1) {
             System.out.println("Impossible to create triangles with your input!");
             return;
         }
