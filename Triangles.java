@@ -23,7 +23,7 @@ public class Triangles {
             }
             System.out.print("\n");
         }
-        //second task
+        //third task
         System.out.print("\n");
         System.out.println("Third Task!");
         System.out.print("\n");
